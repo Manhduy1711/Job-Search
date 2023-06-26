@@ -1,4 +1,4 @@
-import axios from "./../axios";
+import axios from "../../axios";
 import { useEffect, useState } from "react";
 import { RiDeleteBin6Line } from "react-icons/ri";
 import { Link } from "react-router-dom";

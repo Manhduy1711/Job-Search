@@ -1,4 +1,4 @@
-import axios from "./../axios";
+import axios from "../../axios";
 import { useEffect, useState } from "react";
 import { FaPaperPlane } from "react-icons/fa";
 import { Link, useNavigate, useParams } from "react-router-dom";

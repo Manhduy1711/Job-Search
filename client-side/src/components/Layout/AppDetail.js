@@ -1,4 +1,4 @@
-import Detail from "./Detail";
+import Detail from "../Job/Detail";
 import { useParams } from "react-router-dom";
 import Header from "./Header";
 function AppDetail() {

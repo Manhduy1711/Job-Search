@@ -1,4 +1,4 @@
-import axios from "./../axios";
+import axios from "../../axios";
 import { useEffect, useState } from "react";
 import { FiPlusCircle } from "react-icons/fi";
 import { RiDeleteBin6Line } from "react-icons/ri";

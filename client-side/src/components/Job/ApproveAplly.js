@@ -1,4 +1,4 @@
-import axios from "./../axios";
+import axios from "../../axios";
 import { useEffect, useState } from "react";
 import { BiSearchAlt2 } from "react-icons/bi";
 import { GrDislike, GrLike } from "react-icons/gr";
